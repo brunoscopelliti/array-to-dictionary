@@ -8,4 +8,4 @@ Install from npmjs.
 npm i fast-array-to-dictionary
 ```
 
-Look at the [tests](blob/master/index.js) for usages.
+Look at the [tests](https://github.com/brunoscopelliti/array-to-dictionary/blob/master/tests.js) for usages.

@@ -1,0 +1,23 @@
+{
+  "name": "fast-array-to-dictionary",
+  "version": "1.0.0",
+  "description": "A JavaScript function to turn arrays into objects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunoscopelliti/array-to-dictionary.git"
+  },
+  "keywords": [],
+  "author": "Bruno Scopelliti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brunoscopelliti/array-to-dictionary/issues"
+  },
+  "homepage": "https://github.com/brunoscopelliti/array-to-dictionary#readme",
+  "devDependencies": {
+    "tape": "5.0.1"
+  }
+}

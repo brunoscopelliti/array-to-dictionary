@@ -1,6 +1,6 @@
 {
   "name": "fast-array-to-dictionary",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A JavaScript function to turn arrays into objects.",
   "main": "index.js",
   "scripts": {

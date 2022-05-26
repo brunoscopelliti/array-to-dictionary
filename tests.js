@@ -2,7 +2,7 @@
 
 var test = require("tape");
 
-var toDictionary = require("./");
+var { toDictionary } = require("./");
 
 test("Transform an array into an object", function (t) {
   var list = [{

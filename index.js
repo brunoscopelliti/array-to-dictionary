@@ -22,4 +22,4 @@ function toDictionary (arr, k) {
   return dict;
 };
 
-module.exports = toDictionary;
+exports.toDictionary = toDictionary;
